@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterlockingTiles", "InterlockingTiles\InterlockingTiles.csproj", "{5718A519-1836-42F4-B9BE-394136163E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5718A519-1836-42F4-B9BE-394136163E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5718A519-1836-42F4-B9BE-394136163E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5718A519-1836-42F4-B9BE-394136163E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5718A519-1836-42F4-B9BE-394136163E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0C80D9D-43A5-4602-A7EE-383D9A25D717}
+	EndGlobalSection
+EndGlobal
